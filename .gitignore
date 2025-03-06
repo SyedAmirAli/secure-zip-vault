@@ -1,0 +1,47 @@
+# Binaries for programs and plugins
+*.exe
+*.exe~
+*.dll
+*.so
+*.dylib
+secure-zip-vault
+
+# Test binary, built with `go test -c`
+*.test
+
+# Output of the go coverage tool
+*.out
+
+# Dependency directories
+vendor/
+
+# Environment variables
+.env
+
+# Google Drive credentials
+credentials.json
+
+# Temporary files
+tmp/
+/tmp/
+*.tmp
+
+# Database dumps
+*.sql
+*.dump
+
+# Backup files
+*.zip
+*.tar
+*.gz
+*.bz2
+
+# IDE specific files
+.idea/
+.vscode/
+*.swp
+*.swo
+
+# OS specific files
+.DS_Store
+Thumbs.db 
