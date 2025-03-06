@@ -6,7 +6,6 @@ import (
 	"io"
 	"os"
 	"path/filepath"
-	"strings"
 )
 
 // CreateZipArchive creates a ZIP archive containing the specified paths
